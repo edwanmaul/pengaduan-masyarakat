@@ -13,12 +13,12 @@ Aplikasi web untuk pengaduan masyarakat dengan dua role:
 - Upload foto laporan (akses via `storage:link`)
 - Export CSV laporan (admin)
 
-## Akun Default (Seeder)
+## Akun Default
 - **Admin**
   - Email: `admin@pengaduan.test`
   - Password: `password`
 
 ## Dokumen Tugas
 File makalah dan PPT ada di folder:
-- `docs/Makalah.pdf`
-- `docs/Presentasi.pptx`
+- `docs/LAPORAN WP II.pdf`
+- `docs/Web Programing II.pptx`

@@ -11,7 +11,6 @@ Aplikasi web untuk pengaduan masyarakat dengan dua role:
 - Status **tidak bisa mundur** (Menunggu → Diproses → Selesai)
 - Ringkasan laporan di dashboard (total, menunggu, proses/selesai)
 - Upload foto laporan (akses via `storage:link`)
-- Waktu ditampilkan menggunakan timezone **Asia/Jakarta**
 - Export CSV laporan (admin)
 
 ## Akun Default (Seeder)
@@ -19,9 +18,7 @@ Aplikasi web untuk pengaduan masyarakat dengan dua role:
   - Email: `admin@pengaduan.test`
   - Password: `password`
 
-> Jika ingin membuat akun masyarakat, gunakan halaman register (jika tersedia) atau buat manual di database.
-
 ## Dokumen Tugas
-Simpan file makalah dan PPT di folder:
-- `docs/Makalah.pdf` (atau `.docx`)
+File makalah dan PPT ada di folder:
+- `docs/Makalah.pdf`
 - `docs/Presentasi.pptx`
